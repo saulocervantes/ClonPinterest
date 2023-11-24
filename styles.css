@@ -1,0 +1,14 @@
+body{
+    background-color: #333;
+    margin: 1em;
+}
+
+img{
+    max-width: 100%;
+    margin-bottom: 0.5em;
+}
+
+.galeria{
+    columns: 7 150px;
+    /* column-gap: 0em; */
+}
